@@ -3,7 +3,7 @@
 如果需要可以从我的推广链接访问（谢谢！） 
 **此文档仅供学习和交流之用，不得用于商业目的。请勿将此文档用于非法活动。**
 
-目前好多便宜的机场都是直连节点，容易被封不稳定，以下的机场都有中转线路，使用稳定。
+目前好多便宜的机场都是直连节点，容易被封不稳定，以下的几个便宜机场都有中转线路，使用稳定。
 
 | 机场名称 | 机场特点                                   | 价格                                                    | 机场网址                                                     | 二维码                                                       |
 | -------- | ------------------------------------------ | ------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -14,7 +14,7 @@
 
 ## 客户端推荐
 
-目前使用最多的客户端是clash（除ios外），ios使用最多的是Shadowsocks
+机场推荐(2元起):目前使用最多的客户端是clash（除ios外），ios使用最多的是Shadowsocks
 
 以下是一些常用工具使用教程：
 
@@ -22,6 +22,7 @@
 
 [Windows](https://github.com/selierlin/Share-SSR-V2ray/blob/master/Clash/Clash_Windows.md) | [Mac](https://github.com/selierlin/Share-SSR-V2ray/blob/master/Clash/Clash_Mac.md) | [Android](https://github.com/selierlin/Share-SSR-V2ray/blob/master/Clash/Clash_Android.md) | [Linux](https://github.com/selierlin/Share-SSR-V2ray/blob/master/Clash/Clash_Linux.md)
 
+机场推荐
 #### Shadowsocks 使用教程
 
  [iOS](https://github.com/selierlin/Share-SSR-V2ray/blob/master/SS/4-ios-setup-guide-cn.md) 
