@@ -18,14 +18,21 @@
 
 以下是一些常用工具使用教程：
 
-#### Clash 使用教程
+#### Clash 使用教程（优先使用，目前最好用）
 
 [Windows](https://github.com/selierlin/Share-SSR-V2ray/blob/master/Clash/Clash_Windows.md) | [Mac](https://github.com/selierlin/Share-SSR-V2ray/blob/master/Clash/Clash_Mac.md) | [Android](https://github.com/selierlin/Share-SSR-V2ray/blob/master/Clash/Clash_Android.md) | [Linux](https://github.com/selierlin/Share-SSR-V2ray/blob/master/Clash/Clash_Linux.md)
 
-机场推荐
 #### Shadowsocks 使用教程
 
- [iOS](https://github.com/selierlin/Share-SSR-V2ray/blob/master/SS/4-ios-setup-guide-cn.md) 
+[Windows](https://github.com/selierlin/Share-SSR-V2ray/blob/master/SS/2-windows-setup-guide-cn.md) | [macOS](https://github.com/selierlin/Share-SSR-V2ray/blob/master/SS/3-macos-setup-guide-cn.md) | [iOS](https://github.com/selierlin/Share-SSR-V2ray/blob/master/SS/4-ios-setup-guide-cn.md) | [Android](https://github.com/selierlin/Share-SSR-V2ray/blob/master/SS/5-android-setup-guide-cn.md) | [Linux](https://github.com/selierlin/Share-SSR-V2ray/blob/master/SS/6-linux-setup-guide-cn.md)
+
+#### ShadowsockR 使用教程
+
+[Windows](https://github.com/selierlin/Share-SSR-V2ray/blob/master/SSR/11-windows-setup-guide-cn.md) | [macOS](https://github.com/selierlin/Share-SSR-V2ray/blob/master/SSR/12-macos-setup-guide-cn.md) | [iOS](https://github.com/selierlin/Share-SSR-V2ray/blob/master/SSR/13-ios-setup-guide-cn.md) | [Android](https://github.com/selierlin/Share-SSR-V2ray/blob/master/SSR/14-android-setup-guide-cn.md) | [Linux](https://github.com/selierlin/Share-SSR-V2ray/blob/master/SSR/15-linux-setup-guide-cn.md)
+
+#### V2ray 使用教程
+
+[Windows](https://github.com/selierlin/Share-SSR-V2ray/blob/master/V2ray/V2rayN_Windows.md) | [Android](
 
  
 
