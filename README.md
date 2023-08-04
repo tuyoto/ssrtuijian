@@ -34,7 +34,7 @@
 
 #### V2ray 使用教程
 
-[Windows](https://github.com/selierlin/Share-SSR-V2ray/blob/master/V2ray/V2rayN_Windows.md) | [Android](
+[Windows](https://github.com/selierlin/Share-SSR-V2ray/blob/master/V2ray/V2rayN_Windows.md) 
 
  
 
