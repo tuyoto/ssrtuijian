@@ -7,7 +7,7 @@
 
 | 机场名称 | 机场特点                                   | 价格                                                    | 机场网址                                                     | 二维码                                                       |
 | -------- | ------------------------------------------ | ------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 破晓云   | BGP、CN2线路，性价比高，部分节点解锁流媒体 | 2元起，有流量套餐、月付套餐，1元=17-25G,中转线路1.5倍率 | [https://v.poxiaoyun.com/#/register?code=kBd5iXws](https://v.poxiaoyun.com/#/register?code=kBd5iXws) | ![image-20230721003439699](https://github.com/tuyoto/ssrtuijian/blob/main/poxiao.png?raw=true) |
+| 破晓云   | BGP、CN2线路，性价比高，部分节点解锁流媒体 | 2元起，有流量套餐、月付套餐，1元=17-25G,中转线路1.5倍率,年付68元，每月150G流量 | [https://v.poxiaoyun.com/#/register?code=kBd5iXws](https://v.poxiaoyun.com/#/register?code=kBd5iXws) | ![image-20230721003439699](https://github.com/tuyoto/ssrtuijian/blob/main/poxiao.png?raw=true) |
 | 独角兽   | BGP，CN2，IEPL优化，部分节点解锁流媒体     | 6.8元起，有流量套餐、月付套餐,1元=7-13G，IEPL2倍率      | [https://91unicorn.cloud/#/register?code=LynEsqHN](https://91unicorn.cloud/#/register?code=LynEsqHN) | ![image-20230721003506368](https://github.com/tuyoto/ssrtuijian/blob/main/KzWkExBL7vdTGaC.png?raw=true) |
 
 
