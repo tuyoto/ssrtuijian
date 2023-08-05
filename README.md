@@ -16,7 +16,7 @@
 
 ## 客户端推荐
 
-机场推荐(2元起):目前使用最多的客户端是clash（除ios外），ios使用最多的是Shadowsocks
+目前使用最多的客户端是clash（除ios外），ios使用最多的是Shadowsocks
 
 以下是一些常用工具使用教程：
 
