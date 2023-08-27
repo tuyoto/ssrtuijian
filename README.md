@@ -24,6 +24,11 @@
 
 [Windows](https://github.com/selierlin/Share-SSR-V2ray/blob/master/Clash/Clash_Windows.md) | [Mac](https://github.com/selierlin/Share-SSR-V2ray/blob/master/Clash/Clash_Mac.md) | [Android](https://github.com/selierlin/Share-SSR-V2ray/blob/master/Clash/Clash_Android.md) | [Linux](https://github.com/selierlin/Share-SSR-V2ray/blob/master/Clash/Clash_Linux.md)
 
+在【代理】菜单中，可以对节点进行测速，选择一个不超时的节点即可使用。
+安卓测速的方法：启动后，点击【代理】->点击右下角的【闪电图标⚡️】 即可测速。
+
+
+
 #### Shadowsocks 使用教程
 
 [Windows](https://github.com/selierlin/Share-SSR-V2ray/blob/master/SS/2-windows-setup-guide-cn.md) | [macOS](https://github.com/selierlin/Share-SSR-V2ray/blob/master/SS/3-macos-setup-guide-cn.md) | [iOS](https://github.com/selierlin/Share-SSR-V2ray/blob/master/SS/4-ios-setup-guide-cn.md) | [Android](https://github.com/selierlin/Share-SSR-V2ray/blob/master/SS/5-android-setup-guide-cn.md) | [Linux](https://github.com/selierlin/Share-SSR-V2ray/blob/master/SS/6-linux-setup-guide-cn.md)
